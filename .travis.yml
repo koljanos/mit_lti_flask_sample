@@ -1,0 +1,10 @@
+sudo: false
+language: node_js
+node_js:
+- node
+- '6'
+- '5'
+- '4'
+deploy:
+  api_key:
+    secure: INp6PXQzI/WRMGvLW4q+GNlP0muO+ZeIYl6vMPqyeLOhyQJ2lzQaMu9CT/vv79lIrYT+mOK4kxI7ux/VWyqt0bQVKSR2aWHVtJKhvcGFm5tvc/Bng7PuptyC/jiJHH7wtZEypQ29KhcaR/TfGvgThgibrUjmMhcuqaU7iTlYT0HDKgMEFOhvNIvFI+ASpuInN4wFTm/9X0V23ulGNwjvXbhieSSp1TksCPQrl6JJA/rMpr0RDNaK3BCycuGtvDyq+migxlDaTTSjtc6oOmL5PrEJOOMlIs5nl8MQAt6bn4I4DqNMXSXS2IAIyj1nM/FfxY5DXX1GsZ2yoBD9bsb9mJ1jK6H+Ce9wHICrg5dId4oaG0/UTXhJ2RpQW4z8pwBcZlthYQknlPMnVqXt8P99fubq8QsVhuXUcsWqnTCCqHXuI24rcvkp005SMPJS8zdZLqvrEbEtQWMNSbt8sck3kG2zY/Qew0FHZKru+WktZf34P7RahyExbt0p+k6OiluU5uhejFwpOHSZxow7Sl41JPjzDZEYQdsJ5GLHBUxFWR3fS2CIUiuMS+SsY7zmkr4FNPrOinC0Lz0DFHAkuBg9LgwG70zpLCP11KLJ6B3BRNskQ2rA79hUx8512p8naJzoc5dUQidfZQk0wElIV8PvjSwitFBdYvy2WzUUhsk0SvY=
